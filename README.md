@@ -10,12 +10,16 @@
 </a>
 
 <br/>
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirrafique76@gmail.com)
 [![Location](https://img.shields.io/badge/📍%20Faisalabad%2C%20Pakistan-333?style=for-the-badge)](https://github.com/hashirrafique)
 [![Profile Views](https://komarev.com/ghpvc/?username=hashirrafique&style=for-the-badge&color=38bdf8)](https://github.com/hashirrafique)
 
 </div>
+
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
 <br/>
 
@@ -47,6 +51,7 @@
 </tr>
 </table>
 
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
 <br/>
 
@@ -56,13 +61,11 @@
 
 <p align="center">
   <b>🌐 Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" /><br><br>
-  <b>⚙️ Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java" /><br><br>
-  <b>☁️ DevOps & Cloud</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,github,linux" /><br><br>
-  <b>🗄️ Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 <p align="center">
@@ -89,6 +92,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
 <br/>
 
@@ -96,23 +100,62 @@
   <h2>🚀 Featured Projects</h2>
 </div>
 
-<p align="center">
-  <a href="https://github.com/hashirrafique/TaskFlow-Project-Manager">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hashirrafique&repo=TaskFlow-Project-Manager&bg_color=0D1117&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" width="45%" />
-  </a>
-  <a href="https://github.com/hashirrafique/AWS-DevOps-CLI-Toolkit">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hashirrafique&repo=AWS-DevOps-CLI-Toolkit&bg_color=0D1117&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" width="45%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/hashirrafique/Java-Text-Editor-QA-Suite">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hashirrafique&repo=Java-Text-Editor-QA-Suite&bg_color=0D1117&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" width="45%" />
-  </a>
-  <a href="https://github.com/hashirrafique/SauceDemo-E2E-Automation">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hashirrafique&repo=SauceDemo-E2E-Automation&bg_color=0D1117&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" width="45%" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### ⚡ [TaskFlow — Project Manager](https://github.com/hashirrafique/TaskFlow-Project-Manager)
+**TypeScript · Next.js 14 · Full Stack**
+
+> *Where team productivity meets elegant engineering.*
+
+A production-grade, full-stack project management platform built for real teams. Features **real-time collaboration via WebSockets, role-based access control, Kanban boards, JWT authentication, and automated CI/CD deployment** via GitHub Actions + Docker.
+
+`Next.js` `TypeScript` `PostgreSQL` `WebSockets` `Docker` `CI/CD`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ [AWS DevOps CLI Toolkit](https://github.com/hashirrafique/AWS-DevOps-CLI-Toolkit)
+**DevOps · AWS · Cloud Automation**
+
+> *Your terminal-first AWS bible — copy, paste, deploy.*
+
+A comprehensive, production-ready collection of **AWS CLI commands for 30+ services**. Every command is meticulously annotated with beginner-friendly comments explaining exactly what it does and why.
+
+`AWS` `EC2` `S3` `Lambda` `EKS` `RDS` `IAM` `VPC` `DevOps`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [Java Text Editor QA Suite](https://github.com/hashirrafique/Java-Text-Editor-QA-Suite)
+**Java · Software Quality Assurance**
+
+> *Because great software is tested software.*
+
+A collaborative software testing project demonstrating **QA methodologies, test case design, and regression testing workflows** for a Java text editor application. Built using robust testing principles and JUnit.
+
+`Java` `JUnit` `Software Testing` `QA` `Git`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [SauceDemo E2E Automation](https://github.com/hashirrafique/SauceDemo-E2E-Automation)
+**JavaScript · UI Automation**
+
+> *Testing the web, automatically.*
+
+An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This project highlights modern web automation patterns and robust testing practices for front-end web applications.
+
+`JavaScript` `E2E Testing` `Automation` `QA`
+
+</td>
+</tr>
+</table>
+
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
 <br/>
 
@@ -168,6 +211,8 @@
 </a>
 
 <br/>
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirrafique76@gmail.com)
 
