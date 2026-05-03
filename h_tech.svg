@@ -15,7 +15,7 @@
   </defs>
   <text x="400" y="35" font-family="'Segoe UI', Arial, sans-serif" font-size="32" font-weight="800"
         fill="#ffffff" text-anchor="middle" filter="url(#glow)" letter-spacing="3">
-    TECH STACK & TOOLS
+    TECH STACK &amp; TOOLS
   </text>
   <rect x="250" y="55" width="300" height="2" fill="url(#lineGrad)"/>
 </svg>
