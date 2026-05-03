@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,50:0f3460,100:38bdf8&height=250&section=header&text=Muhammad%20Hashir&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20Architect&descAlignY=62&descSize=22&descColor=c9d1d9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=300&section=header&text=Muhammad%20Hashir&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20Architect&descAlignY=62&descSize=22&descColor=c9d1d9" width="100%" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:0d1117&height=60&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -51,7 +51,7 @@ philosophy: "Build fast. Automate everything. Scale infinitely. 🚀"
 ```
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:0d1117&height=60&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -92,7 +92,7 @@ philosophy: "Build fast. Automate everything. Scale infinitely. 🚀"
 </p>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:0d1117&height=60&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -155,7 +155,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:0d1117&height=60&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
