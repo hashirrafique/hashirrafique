@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Muhammad Hashir
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,50:0f3460,100:38bdf8&height=250&section=header&text=Muhammad%20Hashir&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20Architect&descAlignY=62&descSize=22&descColor=c9d1d9" width="100%" />
 
 <br/>
 
@@ -19,7 +19,9 @@
 
 </div>
 
----
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:0d1117&height=60&animation=twinkling" width="100%" />
+<br/>
 
 <div align="center">
   <h2>👨‍💻 About Me</h2>
@@ -49,8 +51,8 @@ philosophy: "Build fast. Automate everything. Scale infinitely. 🚀"
 ```
 
 <br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:0d1117&height=60&animation=twinkling" width="100%" />
+<br/>
 
 <div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
@@ -90,8 +92,8 @@ philosophy: "Build fast. Automate everything. Scale infinitely. 🚀"
 </p>
 
 <br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:0d1117&height=60&animation=twinkling" width="100%" />
+<br/>
 
 <div align="center">
   <h2>🚀 Featured Projects</h2>
@@ -153,8 +155,8 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </table>
 
 <br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:38bdf8,100:0d1117&height=60&animation=twinkling" width="100%" />
+<br/>
 
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
@@ -197,12 +199,8 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 
 <br/>
 
----
-
-<div align="center">
-
-
 <!-- SHOCKINGLY BEAUTIFUL FOOTER -->
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:38bdf8,100:1f6feb&height=100&section=footer&text=Let's%20Build%20Something%20Epic%20🚀&fontSize=45&fontColor=38bdf8&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <br/>
@@ -220,5 +218,4 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
-
 </div>
