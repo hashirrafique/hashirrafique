@@ -20,11 +20,11 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=80&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&height=50&fontSize=30&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&height=50&fontSize=30&fontAlignY=70&fontColor=ffffff" />
 </div>
 
 <table width="100%">
@@ -52,11 +52,11 @@
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=80&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20%26%20Tools&height=50&fontSize=30&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20%26%20Tools&height=50&fontSize=30&fontAlignY=70&fontColor=ffffff" />
 </div>
 
 <p align="center">
@@ -93,11 +93,11 @@
 </p>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=80&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%9A%80%20Featured%20Projects&height=50&fontSize=30&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%9A%80%20Featured%20Projects&height=50&fontSize=30&fontAlignY=70&fontColor=ffffff" />
 </div>
 
 <table>
@@ -171,11 +171,11 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=80&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%93%8A%20GitHub%20Statistics&height=50&fontSize=30&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%93%8A%20GitHub%20Statistics&height=50&fontSize=30&fontAlignY=70&fontColor=ffffff" />
 </div>
 
 <p align="center">
@@ -190,7 +190,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%90%8D%20Contribution%20Snake&height=50&fontSize=30&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%90%8D%20Contribution%20Snake&height=50&fontSize=30&fontAlignY=70&fontColor=ffffff" />
 </div>
 
 <p align="center">
@@ -206,7 +206,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%8F%86%20GitHub%20Trophies&height=50&fontSize=30&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%8F%86%20GitHub%20Trophies&height=50&fontSize=30&fontAlignY=70&fontColor=ffffff" />
 </div>
 
 <p align="center">
