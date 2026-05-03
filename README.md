@@ -234,9 +234,7 @@ A modern **End-to-End UI testing framework** for SauceDemo. Highlights best prac
 
 <div align="center">
 
-*"The best infrastructure is the one that no one notices."*
-&nbsp;&nbsp;·&nbsp;&nbsp;
-*"Build fast. Automate everything. Scale infinitely."*
+<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/footer.svg" width="100%" alt="Footer Quote" />
 
 <br/>
 
@@ -248,3 +246,4 @@ A modern **End-to-End UI testing framework** for SauceDemo. Highlights best prac
 <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave_v3.svg" width="100%"/>
 
 </div>
+
