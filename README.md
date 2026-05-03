@@ -19,9 +19,7 @@
 
 </div>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&animation=twinkling" width="100%" />
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&animation=twinkling" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" /> About Me</h2>
@@ -30,7 +28,7 @@
 <table width="100%">
 <tr>
 <td width="48%" align="center" valign="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqI5lFN/giphy.gif" width="100%" alt="Hacker GIF" />
+  <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/hacker.gif" width="100%" alt="Developer GIF" />
 </td>
 <td width="55%" valign="top">
   <h3>⚡ Engineering the Future</h3>
@@ -51,9 +49,7 @@
 </tr>
 </table>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&animation=twinkling" width="100%" />
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&animation=twinkling" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="35" /> Tech Stack & Tools</h2>
@@ -92,9 +88,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&animation=twinkling" width="100%" />
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&animation=twinkling" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> Featured Projects</h2>
@@ -170,9 +164,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </tr>
 </table>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&animation=twinkling" width="100%" />
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&animation=twinkling" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Statistics</h2>
@@ -230,8 +222,6 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirrafique76@gmail.com)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
