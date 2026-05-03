@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://github.com/hashirrafique">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9A%80%20Full%20Stack%20Engineer%20%7C%20MERN%20Stack;%E2%98%81%EF%B8%8F%20AWS%20%26%20Azure%20Enthusiast;%E2%9A%99%EF%B8%8F%20CI/CD%20Pipeline%20Architect;%F0%9F%8C%90%20Building%20Scalable%20Web%20Applications;%F0%9F%94%92%20Automating%20Cloud%20Infrastructure" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9A%80%20Full%20Stack%20Engineer%20%7C%20MERN%20Stack;%E2%98%81%EF%B8%8F%20AWS%20%26%20Azure%20Enthusiast;%E2%9A%99%EF%B8%8F%20CI/CD%20Pipeline%20Architect;%F0%9F%8C%90%20Building%20Scalable%20Web%20Apps;%F0%9F%94%92%20Automating%20Cloud%20Infrastructure" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -161,12 +161,12 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hashirrafique&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hashirrafique&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=38bdf8&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hashirrafique&show_icons=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hashirrafique&layout=compact&langs_count=8&bg_color=0D1117&hide_border=true&title_color=38bdf8&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashirrafique&theme=transparent&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=c9d1d9&statLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashirrafique&background=0D1117&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=c9d1d9&statLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff"/>
 </p>
 
 <br/>
@@ -192,7 +192,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hashirrafique&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hashirrafique&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </p>
 
 <br/>
@@ -201,7 +201,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 <br/>
 
