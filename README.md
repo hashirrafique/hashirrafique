@@ -20,7 +20,7 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -29,8 +29,8 @@
 
 <table width="100%">
 <tr>
-<td width="45%" align="center" valign="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" alt="Developer GIF" />
+<td width="48%" align="center" valign="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="110%" alt="Developer GIF" />
 </td>
 <td width="55%" valign="top">
   <h3>⚡ Engineering the Future</h3>
@@ -46,13 +46,13 @@
   <p><b>🔥 Core Philosophy:</b><br>
   <i>"Build fast. Automate everything. Scale infinitely."</i></p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=38BDF8&vCenter=true&multiline=true&width=400&height=60&lines=%3E_%20sudo%20systemctl%20start%20innovation;%3E_%20deploying%20to%20production...;%3E_%20automation%20scripts%20executed.;%3E_%20systems%20operational.%20%F0%9F%9A%80" alt="Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=38BDF8&vCenter=true&multiline=true&width=400&height=90&lines=%3E_%20sudo%20systemctl%20start%20innovation;%3E_%20deploying%20to%20production...;%3E_%20automation%20scripts%20executed.;%3E_%20systems%20operational.%20%F0%9F%9A%80" alt="Terminal" />
 </td>
 </tr>
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -93,7 +93,7 @@
 </p>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -123,7 +123,11 @@ A production-grade, full-stack project management platform built for real teams.
 
 A comprehensive, production-ready collection of **AWS CLI commands for 30+ services**. Every command is meticulously annotated with beginner-friendly comments explaining exactly what it does and why.
 
-`AWS` `EC2` `S3` `Lambda` `EKS` `RDS` `IAM` `VPC` `DevOps`
+<img src="https://img.shields.io/badge/AWS_CLI-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-008000?style=flat-square&logo=githubactions&logoColor=white" />
 
 </td>
 </tr>
@@ -137,7 +141,10 @@ A comprehensive, production-ready collection of **AWS CLI commands for 30+ servi
 
 A collaborative software testing project demonstrating **QA methodologies, test case design, and regression testing workflows** for a Java text editor application. Built using robust testing principles and JUnit.
 
-`Java` `JUnit` `Software Testing` `QA` `Git`
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/QA_Testing-FF0000?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
@@ -149,14 +156,17 @@ A collaborative software testing project demonstrating **QA methodologies, test 
 
 An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This project highlights modern web automation patterns and robust testing practices for front-end web applications.
 
-`JavaScript` `E2E Testing` `Automation` `QA`
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/E2E_Testing-000000?style=flat-square&logo=testinglibrary&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
