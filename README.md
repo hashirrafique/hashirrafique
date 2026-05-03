@@ -25,7 +25,11 @@
 </td>
 <td width="55%" valign="top">
 
-### 👨‍💻 About Me
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="45" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_about.svg" width="400" />
+</div>
 
 I'm a **Full Stack Engineer** and **DevOps Architect** from Pakistan who builds things that work at scale. I care about clean architecture, automation, and shipping products that make an impact.
 
@@ -49,7 +53,11 @@ status:   Open to opportunities
 
 <div align="center">
 
-### 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="45" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_tech.svg" width="400" />
+</div>
 
 **Frontend**
 
@@ -98,7 +106,11 @@ status:   Open to opportunities
 
 <div align="center">
 
-### 🚀 Featured Projects
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_projects.svg" width="400" />
+</div>
 
 </div>
 
@@ -168,7 +180,11 @@ A modern **End-to-End UI testing framework** for SauceDemo. Highlights best prac
 
 <div align="center">
 
-### 📊 GitHub Statistics
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="45" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_stats.svg" width="400" />
+</div>
 
 <p>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hashirrafique&show_icons=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
@@ -186,7 +202,11 @@ A modern **End-to-End UI testing framework** for SauceDemo. Highlights best prac
 
 <div align="center">
 
-### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="45" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_snake.svg" width="400" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hashirrafique/hashirrafique/output/github-contribution-grid-snake-dark.svg"/>
@@ -200,7 +220,11 @@ A modern **End-to-End UI testing framework** for SauceDemo. Highlights best prac
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="45" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_trophies.svg" width="400" />
+</div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=hashirrafique&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
