@@ -27,28 +27,28 @@
   <h2>👨‍💻 About Me</h2>
 </div>
 
-```yaml
-╔═════════════════════════════════════════════════════════════════════╗
-║                   MUHAMMAD HASHIR  —  PROFILE.YAML                  ║
-╚═════════════════════════════════════════════════════════════════════╝
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-name:       "Muhammad Hashir"
-location:   "Faisalabad, Punjab, Pakistan 🇵🇰"
-linkedin:   "linkedin.com/in/muhammad-hashir12"
+<p>I am a <b>Full Stack Engineer</b> and <b>DevOps Architect</b> based in Pakistan. I thrive at the intersection of development and operations, ensuring that the applications I build are not just highly performant, but perfectly deployed and infinitely scalable.</p>
 
-roles:
-  - "🌐  Full Stack Engineer  (MERN Stack)"
-  - "☁️  DevOps & Cloud Enthusiast  (AWS · Azure)"
-  - "⚙️  CI/CD Pipeline Architect"
+<p><b>🚀 Current Focus:</b></p>
+<ul>
+  <li>Engineering the <b>TaskFlow</b> Full-Stack platform.</li>
+  <li>Writing production-ready <b>AWS CLI automation</b> suites.</li>
+  <li>Architecting robust <b>CI/CD Pipelines</b> with GitHub Actions & Docker.</li>
+</ul>
 
-currently_building:
-  - "🚀  TaskFlow — Full-Stack Project Management Platform"
-  - "☁️  AWS CLI Infrastructure Automation Suite"
-  - "⚙️  CI/CD Pipelines with GitHub Actions + Docker"
+<p><b>⚡ Philosophy:</b><br>
+<i>"Build fast. Automate everything. Scale infinitely."</i></p>
 
-fun_fact:   "I'd automate my coffee order if I could ☕🤖"
-philosophy: "Build fast. Automate everything. Scale infinitely. 🚀"
-```
+</td>
+<td width="40%" align="center" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2000&pause=500&color=38BDF8&vCenter=true&multiline=true&width=350&height=180&lines=%3E_%20initializing%20workspace...;%3E_%20loading%20full-stack%20modules...;%3E_%20connecting%20to%20AWS%20cloud...;%3E_%20automating%20CI/CD%20pipelines...;%3E_%20system%20ready.%20let%27s%20build%21%20%F0%9F%9A%80" alt="Terminal Animation" />
+</td>
+</tr>
+</table>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
