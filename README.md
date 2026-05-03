@@ -29,23 +29,24 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
-
-<p>I am a <b>Full Stack Engineer</b> and <b>DevOps Architect</b> based in Pakistan. I thrive at the intersection of development and operations, ensuring that the applications I build are not just highly performant, but perfectly deployed and infinitely scalable.</p>
-
-<p><b>🚀 Current Focus:</b></p>
-<ul>
-  <li>Engineering the <b>TaskFlow</b> Full-Stack platform.</li>
-  <li>Writing production-ready <b>AWS CLI automation</b> suites.</li>
-  <li>Architecting robust <b>CI/CD Pipelines</b> with GitHub Actions & Docker.</li>
-</ul>
-
-<p><b>⚡ Philosophy:</b><br>
-<i>"Build fast. Automate everything. Scale infinitely."</i></p>
-
+<td width="45%" align="center" valign="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" alt="Developer GIF" />
 </td>
-<td width="40%" align="center" valign="top">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2000&pause=500&color=38BDF8&vCenter=true&multiline=true&width=350&height=180&lines=%3E_%20initializing%20workspace...;%3E_%20loading%20full-stack%20modules...;%3E_%20connecting%20to%20AWS%20cloud...;%3E_%20automating%20CI/CD%20pipelines...;%3E_%20system%20ready.%20let%27s%20build%21%20%F0%9F%9A%80" alt="Terminal Animation" />
+<td width="55%" valign="top">
+  <h3>⚡ Engineering the Future</h3>
+  <p>I am a <b>Full Stack Engineer</b> and <b>DevOps Architect</b> based in Pakistan. I thrive at the intersection of application development and scalable cloud infrastructure.</p>
+  
+  <p><b>🚀 The Mission:</b></p>
+  <ul>
+    <li>Building the <b>TaskFlow</b> Full-Stack platform.</li>
+    <li>Writing production-ready <b>AWS automation</b>.</li>
+    <li>Architecting robust <b>CI/CD Pipelines</b>.</li>
+  </ul>
+  
+  <p><b>🔥 Core Philosophy:</b><br>
+  <i>"Build fast. Automate everything. Scale infinitely."</i></p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=38BDF8&vCenter=true&multiline=true&width=400&height=120&lines=%3E_%20sudo%20systemctl%20start%20innovation;%3E_%20deploying%20to%20production...;%3E_%20automation%20scripts%20executed.;%3E_%20systems%20operational.%20%F0%9F%9A%80" alt="Terminal" />
 </td>
 </tr>
 </table>
