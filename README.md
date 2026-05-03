@@ -1,21 +1,25 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:0d1117&height=250&section=header&text=Muhammad%20Hashir&fontSize=70&fontColor=38bdf8&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cloud%20Architect&descAlignY=65&descSize=20&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:38bdf8&height=220&section=header&text=Muhammad%20Hashir&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cloud%20Architect&descAlignY=62&descSize=18&descColor=e2e8f0" width="100%" />
 
 <br/>
 
-<a href="https://github.com/hashirrafique">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9A%80%20Full%20Stack%20Engineer%20%7C%20MERN%20Stack;%E2%9A%99%EF%B8%8F%20DevOps%20%7C%20AWS%20%7C%20Azure%20%7C%20Docker;%F0%9F%8C%90%20Building%20Scalable%20Web%20Applications;%E2%98%81%EF%B8%8F%20Automating%20Cloud%20Infrastructure;%F0%9F%92%A1%20Turning%20Ideas%20Into%20Production" alt="Typing SVG"/>
-</a>
+<h3 align="center">
+  🚀 Full Stack Engineer | ☁️ AWS & Azure Enthusiast | ⚙️ CI/CD Pipeline Architect
+</h3>
+
+<p align="center">
+  <i>Building Scalable Web Applications & Automating Cloud Infrastructure</i>
+</p>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirrafique76@gmail.com)
 [![Location](https://img.shields.io/badge/📍%20Faisalabad%2C%20Pakistan-333?style=for-the-badge)](https://github.com/hashirrafique)
-[![Open to Work](https://img.shields.io/badge/✅%20Open%20to%20Work-Full%20Stack%20%7C%20DevOps-00C853?style=for-the-badge)](https://github.com/hashirrafique)
-[![Profile Views](https://komarev.com/ghpvc/?username=hashirrafique&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)](https://github.com/hashirrafique)
+[![Profile Views](https://komarev.com/ghpvc/?username=hashirrafique&style=for-the-badge&color=38bdf8&label=VIEWS)](https://github.com/hashirrafique)
 
-<br/>
 <br/>
 
 </div>
@@ -32,7 +36,6 @@
 ╚═════════════════════════════════════════════════════════════════════╝
 
 name:       "Muhammad Hashir"
-handle:     "@hashirrafique"
 location:   "Faisalabad, Punjab, Pakistan 🇵🇰"
 linkedin:   "linkedin.com/in/muhammad-hashir12"
 
@@ -163,8 +166,8 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hashirrafique&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashirrafique&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=38bdf8&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hashirrafique&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hashirrafique&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=38bdf8&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
@@ -190,18 +193,27 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 ---
 
 <div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hashirrafique&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</p>
+
+<br/>
+
+---
+
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
 
 **🤝 Let's Connect & Build Together**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
-[![Email](https://img.shields.io/badge/Email-hashirrafique76@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirrafique76@gmail.com)
 
 *"The best infrastructure is the one that no one notices — because everything just works."* ⚙️
 
