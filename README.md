@@ -20,7 +20,7 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=80&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -30,7 +30,7 @@
 <table width="100%">
 <tr>
 <td width="48%" align="center" valign="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100%" alt="Hacker GIF" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqI5lFN/giphy.gif" width="100%" alt="Hacker GIF" />
 </td>
 <td width="55%" valign="top">
   <h3>⚡ Engineering the Future</h3>
@@ -52,7 +52,7 @@
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=80&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -93,7 +93,7 @@
 </p>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=80&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -171,7 +171,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=80&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
