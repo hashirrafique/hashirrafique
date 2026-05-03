@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave_v2.svg?v=2" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" /> About Me</h2>
@@ -48,7 +48,7 @@
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave_v2.svg?v=2" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="35" /> Tech Stack & Tools</h2>
@@ -87,7 +87,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave_v2.svg?v=2" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> Featured Projects</h2>
@@ -163,7 +163,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave_v2.svg?v=2" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Statistics</h2>
