@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,100:0f3460&height=220&section=header&text=Muhammad%20Hashir&fontSize=58&fontColor=58a6ff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20DevOps%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=17&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,100:0f3460&height=220&section=header&text=Muhammad%20Hashir&fontSize=58&fontColor=58a6ff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20DevOps%20and%20Cloud%20Enthusiast&descAlignY=58&descSize=17&descColor=c9d1d9" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=130&lines=%F0%9F%9A%80%20Full%20Stack%20Engineer%20%7C%20MERN%20Stack;%E2%9A%99%EF%B8%8F%20DevOps%20%7C%20AWS%20%7C%20Azure%20%7C%20Docker%20%7C%20CI/CD;%F0%9F%8C%90%20Building%20Scalable%20Web%20Applications;%E2%98%81%EF%B8%8F%20Automating%20Cloud%20Infrastructure;%F0%9F%92%A1%20Turning%20Ideas%20Into%20Production-Ready%20Products" alt="Typing SVG"/>
 
