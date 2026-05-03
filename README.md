@@ -10,7 +10,6 @@
 </a>
 
 <br/>
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirrafique76@gmail.com)
@@ -19,7 +18,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&animation=twinkling" width="100%" />
+<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave.svg" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" /> About Me</h2>
@@ -28,7 +27,7 @@
 <table width="100%">
 <tr>
 <td width="48%" align="center" valign="center">
-  <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/hacker.gif" width="100%" alt="Developer GIF" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" alt="Developer GIF" />
 </td>
 <td width="55%" valign="top">
   <h3>⚡ Engineering the Future</h3>
@@ -49,7 +48,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&animation=twinkling" width="100%" />
+<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave.svg" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="35" /> Tech Stack & Tools</h2>
@@ -88,7 +87,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&animation=twinkling" width="100%" />
+<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave.svg" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" /> Featured Projects</h2>
@@ -164,7 +163,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&animation=twinkling" width="100%" />
+<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave.svg" width="100%" />
 
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Statistics</h2>
@@ -217,7 +216,6 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=94A3B8&center=true&vCenter=true&width=800&height=40&lines=%3E_%20The%20best%20infrastructure%20is%20the%20one%20that%20no%20one%20notices.;%3E_%20Whenever%20logical%20processes%20of%20thought%20are%20employed...;%3E_%20...there%20is%20an%20opportunity%20for%20the%20machine.%20-%20Vannevar%20Bush;%3E_%20Automate%20everything.%20Scale%20infinitely." alt="Terminal Typing Quote"/>
 </a>
 
-<br/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
