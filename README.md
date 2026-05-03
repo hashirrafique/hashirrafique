@@ -20,7 +20,7 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -51,7 +51,7 @@ philosophy: "Build fast. Automate everything. Scale infinitely. 🚀"
 ```
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -92,7 +92,7 @@ philosophy: "Build fast. Automate everything. Scale infinitely. 🚀"
 </p>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -155,7 +155,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
