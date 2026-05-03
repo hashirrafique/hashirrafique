@@ -201,12 +201,24 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+<!-- SHOCKINGLY BEAUTIFUL FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:38bdf8,100:1f6feb&height=100&section=footer&text=Let's%20Build%20Something%20Epic%20🚀&fontSize=45&fontColor=38bdf8&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <br/>
 
-**🤝 Let's Connect & Build Together**
+<a href="https://github.com/hashirrafique">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=94A3B8&center=true&vCenter=true&width=800&height=40&lines=%3E_%20The%20best%20infrastructure%20is%20the%20one%20that%20no%20one%20notices.;%3E_%20Whenever%20logical%20processes%20of%20thought%20are%20employed...;%3E_%20...there%20is%20an%20opportunity%20for%20the%20machine.%20-%20Vannevar%20Bush;%3E_%20Automate%20everything.%20Scale%20infinitely." alt="Terminal Typing Quote"/>
+</a>
 
-*"The best infrastructure is the one that no one notices — because everything just works."* ⚙️
+<br/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirrafique76@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
