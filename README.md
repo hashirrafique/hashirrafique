@@ -1,26 +1,21 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:38bdf8&height=220&section=header&text=Muhammad%20Hashir&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Cloud%20Architect&descAlignY=62&descSize=18&descColor=e2e8f0" width="100%" />
+# Hi 👋, I'm Muhammad Hashir
 
 <br/>
 
-<h3 align="center">
-  🚀 Full Stack Engineer | ☁️ AWS & Azure Enthusiast | ⚙️ CI/CD Pipeline Architect
-</h3>
-
-<p align="center">
-  <i>Building Scalable Web Applications & Automating Cloud Infrastructure</i>
-</p>
+<a href="https://github.com/hashirrafique">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9A%80%20Full%20Stack%20Engineer%20%7C%20MERN%20Stack;%E2%98%81%EF%B8%8F%20AWS%20%26%20Azure%20Enthusiast;%E2%9A%99%EF%B8%8F%20CI/CD%20Pipeline%20Architect;%F0%9F%8C%90%20Building%20Scalable%20Web%20Applications;%F0%9F%94%92%20Automating%20Cloud%20Infrastructure" alt="Typing SVG"/>
+</a>
 
 <br/>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirrafique76@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirrafique76@gmail.com)
 [![Location](https://img.shields.io/badge/📍%20Faisalabad%2C%20Pakistan-333?style=for-the-badge)](https://github.com/hashirrafique)
-[![Profile Views](https://komarev.com/ghpvc/?username=hashirrafique&style=for-the-badge&color=38bdf8&label=VIEWS)](https://github.com/hashirrafique)
-
-<br/>
+[![Profile Views](https://komarev.com/ghpvc/?username=hashirrafique&style=for-the-badge&color=38bdf8)](https://github.com/hashirrafique)
 
 </div>
 
@@ -209,9 +204,6 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 
 <br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
 
 **🤝 Let's Connect & Build Together**
 
