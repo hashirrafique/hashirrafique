@@ -20,11 +20,11 @@
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me" alt="👨‍💻 About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20About%20Me&height=50&fontSize=30&fontAlignY=70" />
 </div>
 
 <table width="100%">
@@ -52,30 +52,52 @@
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20%26%20Tools" alt="🛠️ Tech Stack & Tools" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20%26%20Tools&height=50&fontSize=30&fontAlignY=70" />
 </div>
 
 <p align="center">
   <b>🌐 Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" /><br><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+<p align="center">
   <b>⚙️ Backend</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java" /><br><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p align="center">
   <b>☁️ DevOps & Cloud</b><br>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,github,linux" /><br><br>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<p align="center">
   <b>🗄️ Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%9A%80%20Featured%20Projects" alt="🚀 Featured Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%9A%80%20Featured%20Projects&height=50&fontSize=30&fontAlignY=70" />
 </div>
 
 <table>
@@ -90,10 +112,11 @@
 A production-grade, full-stack project management platform built for real teams. Features **real-time collaboration via WebSockets, role-based access control, Kanban boards, JWT authentication, and automated CI/CD deployment** via GitHub Actions + Docker.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-FF9900?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-FF0000?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
@@ -148,11 +171,11 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%93%8A%20GitHub%20Statistics" alt="📊 GitHub Statistics" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%93%8A%20GitHub%20Statistics&height=50&fontSize=30&fontAlignY=70" />
 </div>
 
 <p align="center">
@@ -167,7 +190,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%90%8D%20Contribution%20Snake" alt="🐍 Contribution Snake" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%90%8D%20Contribution%20Snake&height=50&fontSize=30&fontAlignY=70" />
 </div>
 
 <p align="center">
@@ -183,7 +206,7 @@ An End-to-End (E2E) UI testing framework for SauceDemo using JavaScript. This pr
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%8F%86%20GitHub%20Trophies" alt="🏆 GitHub Trophies" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=38bdf8&text=%F0%9F%8F%86%20GitHub%20Trophies&height=50&fontSize=30&fontAlignY=70" />
 </div>
 
 <p align="center">
