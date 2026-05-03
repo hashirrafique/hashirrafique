@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=300&section=header&text=Muhammad%20Hashir&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20Architect&descAlignY=62&descSize=22&descColor=c9d1d9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Muhammad%20Hashir&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%E2%80%A2%20DevOps%20Architect&descAlignY=62&descSize=22&descColor=c9d1d9" width="100%" />
 
 <br/>
 
@@ -10,17 +10,13 @@
 </a>
 
 <br/>
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirrafique76@gmail.com)
 [![Location](https://img.shields.io/badge/📍%20Faisalabad%2C%20Pakistan-333?style=for-the-badge)](https://github.com/hashirrafique)
-![Profile Views](https://profile-counter.glitch.me/hashirrafique/count.svg)](https://github.com/hashirrafique)
+[![Profile Views](https://komarev.com/ghpvc/?username=hashirrafique&style=for-the-badge&color=38bdf8)](https://github.com/hashirrafique)
 
 </div>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -46,13 +42,12 @@
   <p><b>🔥 Core Philosophy:</b><br>
   <i>"Build fast. Automate everything. Scale infinitely."</i></p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=38BDF8&vCenter=true&multiline=true&width=400&height=120&lines=%3E_%20sudo%20systemctl%20start%20innovation;%3E_%20deploying%20to%20production...;%3E_%20automation%20scripts%20executed.;%3E_%20systems%20operational.%20%F0%9F%9A%80" alt="Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2000&pause=500&color=38BDF8&vCenter=true&multiline=true&width=400&height=60&lines=%3E_%20sudo%20systemctl%20start%20innovation;%3E_%20deploying%20to%20production...;%3E_%20automation%20scripts%20executed.;%3E_%20systems%20operational.%20%F0%9F%9A%80" alt="Terminal" />
 </td>
 </tr>
 </table>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -94,8 +89,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -119,8 +113,7 @@
   </a>
 </p>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=60&section=footer&animation=twinkling" width="100%" />
 <br/>
 
 <div align="center">
@@ -175,8 +168,6 @@
 </a>
 
 <br/>
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hashir12)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirrafique76@gmail.com)
 
