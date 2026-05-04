@@ -54,6 +54,26 @@ status:   Open to opportunities
 <div align="center">
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" width="45" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_expertise.svg" width="400" />
+</div>
+
+<div align="center">
+
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-Solutions%20Expert-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+</p>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave_v3.svg" width="100%" />
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="45" />
   <br/>
   <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_tech.svg" width="400" />
