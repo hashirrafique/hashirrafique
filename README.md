@@ -26,8 +26,6 @@
 <td width="55%" valign="top">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="45" />
-  <br/>
   <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_about.svg" width="400" />
 </div>
 
@@ -54,8 +52,6 @@ status:   Open to opportunities
 <div align="center">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" width="45" />
-  <br/>
   <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_expertise.svg" width="400" />
 </div>
 
@@ -74,8 +70,6 @@ status:   Open to opportunities
 <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/wave_v3.svg" width="100%" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="45" />
-  <br/>
   <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_tech.svg" width="400" />
 </div>
 
@@ -127,8 +121,6 @@ status:   Open to opportunities
 <div align="center">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" />
-  <br/>
   <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_projects.svg" width="400" />
 </div>
 
@@ -201,8 +193,6 @@ A modern **End-to-End UI testing framework** for SauceDemo. Highlights best prac
 <div align="center">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="45" />
-  <br/>
   <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_stats.svg" width="400" />
 </div>
 
@@ -223,8 +213,6 @@ A modern **End-to-End UI testing framework** for SauceDemo. Highlights best prac
 <div align="center">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="45" />
-  <br/>
   <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_snake.svg" width="400" />
 </div>
 
@@ -241,8 +229,6 @@ A modern **End-to-End UI testing framework** for SauceDemo. Highlights best prac
 <div align="center">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="45" />
-  <br/>
   <img src="https://raw.githubusercontent.com/hashirrafique/hashirrafique/main/h_trophies.svg" width="400" />
 </div>
 
